@@ -1,26 +1,3 @@
-// NatWest Demo
-/*
-var CONFIG = {
-  name: "PingOne",
-  authEndPoint: "https://auth.pingone.com",
-  apiEndPoint: "https://api.pingone.com/v1",
-  envId: "6fa1cf7d-3008-4baa-a835-b8ced178e984",
-  scope: "openid",
-  client: {
-    id: "2fee2098-0d6a-4ed4-9ed6-3ed8c769c208",
-    secret: "NJY1SMy_IDMTFEE_B54VrdNNvbd.GbJns0UnH.~bal5E-QOK4uUXSUoTNr4jeQuM",
-  },
-  davinci: {
-    policy: "a95a2ae3e2b4d7cecde8850ed6311849",
-    clientid: "30501e29b35ea22f3d3bc36f2793de4a",
-  },  
-  credentialType: "NatWest Current Account",
-  protocol: "NATIVE", // "NATIVE" or "OPENID4VP"
-  digitalWalletAppId: "0af0df92-4c7b-4618-9706-6fdbfca496f1"
-};
-*/
-
-
 /*
 var CONFIG = {
   name: "PingOne",
