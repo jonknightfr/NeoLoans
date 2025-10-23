@@ -34,7 +34,7 @@ var CONFIG = {
       policy: "a95a2ae3e2b4d7cecde8850ed6311849",
       clientid: "30501e29b35ea22f3d3bc36f2793de4a",
     },  
-    credentialType: "Pet Insurance", // "Your Digital ID from NatWest" or "Driving License"
+    credentialType: "HSBC", // "Your Digital ID from NatWest" or "Driving License"
     protocol: "NATIVE", // "NATIVE" or "OPENID4VP"
     digitalWalletAppId: "706a8b62-33bd-41d5-a288-33a20b6e6a57"       
 };   
